@@ -1,0 +1,8 @@
+C:\Users\Mehmet Cem\Documents\Projeler\benim\client testc\client testc\bin\Debug\client testc.exe.config
+C:\Users\Mehmet Cem\Documents\Projeler\benim\client testc\client testc\bin\Debug\client testc.exe
+C:\Users\Mehmet Cem\Documents\Projeler\benim\client testc\client testc\bin\Debug\client testc.pdb
+C:\Users\Mehmet Cem\Documents\Projeler\benim\client testc\client testc\obj\Debug\client testc.csproj.AssemblyReference.cache
+C:\Users\Mehmet Cem\Documents\Projeler\benim\client testc\client testc\obj\Debug\client testc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehmet Cem\Documents\Projeler\benim\client testc\client testc\obj\Debug\client testc.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Cem\Documents\Projeler\benim\client testc\client testc\obj\Debug\client testc.exe
+C:\Users\Mehmet Cem\Documents\Projeler\benim\client testc\client testc\obj\Debug\client testc.pdb

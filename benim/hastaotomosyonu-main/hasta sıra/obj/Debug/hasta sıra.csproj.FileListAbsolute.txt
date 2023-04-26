@@ -1,0 +1,9 @@
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\hasta sıra\obj\Debug\hasta_sıra.Form1.resources
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\hasta sıra\obj\Debug\hasta_sıra.Properties.Resources.resources
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\hasta sıra\obj\Debug\hasta sıra.csproj.GenerateResource.cache
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\hasta sıra\obj\Debug\hasta sıra.csproj.CoreCompileInputs.cache
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\hasta sıra\bin\Debug\hasta sıra.exe
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\hasta sıra\bin\Debug\hasta sıra.pdb
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\hasta sıra\obj\Debug\hasta sıra.exe
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\hasta sıra\obj\Debug\hasta sıra.pdb
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\hasta sıra\obj\Debug\hasta sıra.csproj.AssemblyReference.cache

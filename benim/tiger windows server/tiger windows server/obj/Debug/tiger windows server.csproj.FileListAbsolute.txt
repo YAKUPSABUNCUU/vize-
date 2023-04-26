@@ -1,0 +1,22 @@
+C:\Users\Mehmet Cem\Documents\Projeler\benim\tiger windows server\tiger windows server\bin\Debug\tiger windows server.exe.config
+C:\Users\Mehmet Cem\Documents\Projeler\benim\tiger windows server\tiger windows server\bin\Debug\tiger windows server.exe
+C:\Users\Mehmet Cem\Documents\Projeler\benim\tiger windows server\tiger windows server\bin\Debug\tiger windows server.pdb
+C:\Users\Mehmet Cem\Documents\Projeler\benim\tiger windows server\tiger windows server\obj\Debug\tiger windows server.csproj.AssemblyReference.cache
+C:\Users\Mehmet Cem\Documents\Projeler\benim\tiger windows server\tiger windows server\obj\Debug\tiger windows server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mehmet Cem\Documents\Projeler\benim\tiger windows server\tiger windows server\obj\Debug\tiger_windows_server.Form1.resources
+C:\Users\Mehmet Cem\Documents\Projeler\benim\tiger windows server\tiger windows server\obj\Debug\tiger_windows_server.Properties.Resources.resources
+C:\Users\Mehmet Cem\Documents\Projeler\benim\tiger windows server\tiger windows server\obj\Debug\tiger windows server.csproj.GenerateResource.cache
+C:\Users\Mehmet Cem\Documents\Projeler\benim\tiger windows server\tiger windows server\obj\Debug\tiger windows server.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Cem\Documents\Projeler\benim\tiger windows server\tiger windows server\obj\Debug\tiger windows server.exe
+C:\Users\Mehmet Cem\Documents\Projeler\benim\tiger windows server\tiger windows server\obj\Debug\tiger windows server.pdb
+D:\eski pc yedek\Belgeler\Projeler\benim\tiger windows server\tiger windows server\bin\Debug\tiger windows server.exe.config
+D:\eski pc yedek\Belgeler\Projeler\benim\tiger windows server\tiger windows server\bin\Debug\tiger windows server.exe
+D:\eski pc yedek\Belgeler\Projeler\benim\tiger windows server\tiger windows server\bin\Debug\tiger windows server.pdb
+D:\eski pc yedek\Belgeler\Projeler\benim\tiger windows server\tiger windows server\obj\Debug\tiger windows server.csproj.AssemblyReference.cache
+D:\eski pc yedek\Belgeler\Projeler\benim\tiger windows server\tiger windows server\obj\Debug\tiger windows server.csproj.SuggestedBindingRedirects.cache
+D:\eski pc yedek\Belgeler\Projeler\benim\tiger windows server\tiger windows server\obj\Debug\tiger_windows_server.Form1.resources
+D:\eski pc yedek\Belgeler\Projeler\benim\tiger windows server\tiger windows server\obj\Debug\tiger_windows_server.Properties.Resources.resources
+D:\eski pc yedek\Belgeler\Projeler\benim\tiger windows server\tiger windows server\obj\Debug\tiger windows server.csproj.GenerateResource.cache
+D:\eski pc yedek\Belgeler\Projeler\benim\tiger windows server\tiger windows server\obj\Debug\tiger windows server.csproj.CoreCompileInputs.cache
+D:\eski pc yedek\Belgeler\Projeler\benim\tiger windows server\tiger windows server\obj\Debug\tiger windows server.exe
+D:\eski pc yedek\Belgeler\Projeler\benim\tiger windows server\tiger windows server\obj\Debug\tiger windows server.pdb

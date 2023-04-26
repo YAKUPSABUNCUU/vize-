@@ -1,0 +1,9 @@
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\Hasta ekranı\bin\Debug\Hasta ekranı.exe
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\Hasta ekranı\bin\Debug\Hasta ekranı.pdb
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\Hasta ekranı\obj\Debug\Hasta_ekranı.Form1.resources
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\Hasta ekranı\obj\Debug\Hasta_ekranı.Properties.Resources.resources
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\Hasta ekranı\obj\Debug\Hasta ekranı.csproj.GenerateResource.cache
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\Hasta ekranı\obj\Debug\Hasta ekranı.csproj.CoreCompileInputs.cache
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\Hasta ekranı\obj\Debug\Hasta ekranı.exe
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\Hasta ekranı\obj\Debug\Hasta ekranı.pdb
+C:\Yeni klasör\Belgelerim\kaynak kodlar\c#\Altın değerinde kodlar\hasta sıra\Hasta ekranı\obj\Debug\Hasta ekranı.csproj.AssemblyReference.cache
